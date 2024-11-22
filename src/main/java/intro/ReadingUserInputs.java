@@ -15,6 +15,9 @@ public class ReadingUserInputs
 
         System.out.println("That's great, " + userName + "!" + " And my hobby is " + userHobby + " too :) .");
 
-
+      gitExerciseAgain();
+    }
+    public static void gitExerciseAgain(){
+        System.out.println("Hello git");
     }
 }
